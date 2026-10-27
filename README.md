@@ -149,7 +149,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/shekhar-himanshu-dbg/calculator-project.git
+git clone https://github.com/nirajchaudhary295/CODSOFT_TASKSNO_3_CALCULATOR
 ```
 
 ### 2. Navigate to the project directory
@@ -302,8 +302,8 @@ Aspiring developer interested in **Web Development, Programming, and Software De
 
 ### Connect With Me
 
-* 💻 **GitHub:** [shekhar-himanshu-dbg](https://github.com/shekhar-himanshu-dbg)
-* 🔗 **LinkedIn:** [Himanshu Shekhar](https://linkedin.com/in/himanshu-shekhar-197a16386)
+* 💻 **GitHub:** https://github.com/nirajchaudhary295
+* 🔗 **LinkedIn:** [](https://www.linkedin.com/in/niraj-chaudhary-26b2a1447)
 
 ---
 
